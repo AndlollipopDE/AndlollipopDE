@@ -6,10 +6,11 @@ I am Shengheng Deng, currently a master student in GorillaLab of South China Uni
 
 ## Maybe you will be interested with my projects?
 
-:fire: [3D AffordanceNet](https://andlollipopde.github.io/3D-AffordanceNet/#/)
+:fire: [New!] CVPR 2021 Accepted Paper [3D AffordanceNet](https://andlollipopde.github.io/3D-AffordanceNet/#/)
 
-## Fun Fact
+## One More Thing
 
+My profile pic is the album *Random Access Memories* of the most awesome band **Daft Punk**, I am a big fan of them. Sad for their break up :sob:
 <!--
 **AndlollipopDE/AndlollipopDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
