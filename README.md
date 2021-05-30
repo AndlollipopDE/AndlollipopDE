@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey guys! This is Andlollipop's Github! 👋
+
+## Who am I?
+
+I am Shengheng Deng, currently a master student in GorillaLab of South China University of Technology (SCUT). My research of interests are 3D computer vision, especially in 3D point cloud analysis such as 3D object detection and 3D affordance understanding. 
+
+## Maybe you will be interested with my projects?
+
+:fire: [3D AffordanceNet](https://andlollipopde.github.io/3D-AffordanceNet/#/)
+
+## Fun Fact
 
 <!--
 **AndlollipopDE/AndlollipopDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
