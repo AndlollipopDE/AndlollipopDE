@@ -8,6 +8,8 @@ I am Shengheng Deng, currently a master student in GorillaLab of South China Uni
 
 :fire: [New!] CVPR 2021 Accepted Paper [3D AffordanceNet](https://andlollipopde.github.io/3D-AffordanceNet/#/)
 
+![affordancenet](https://github.com/Gorilla-Lab-SCUT/AffordanceNet/blob/main/image/ground_truth_readme.png)
+
 ## Listening Now :headphones:
 
 ![album](https://www.mymusic.net.tw/mms/album/L/504/4410504.jpg)
