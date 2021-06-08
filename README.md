@@ -8,9 +8,14 @@ I am Shengheng Deng, currently a master student in GorillaLab of South China Uni
 
 :fire: [New!] CVPR 2021 Accepted Paper [3D AffordanceNet](https://andlollipopde.github.io/3D-AffordanceNet/#/)
 
-## One More Thing
+## Listening Now :headphones:
 
-My profile pic is the album *Random Access Memories* of the most awesome band **Daft Punk**, I am a big fan of them. Sad for their break up :sob:
+![album](https://www.mymusic.net.tw/mms/album/L/504/4410504.jpg)
+
+**Leave The Door Open** 
+
+Bruno Mars, Anderson .Paak, Silk Sonic 
+
 <!--
 **AndlollipopDE/AndlollipopDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
