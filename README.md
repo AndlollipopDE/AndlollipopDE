@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I am Shengheng Deng, currently a master student in GorillaLab of South China University of Technology (SCUT). My research of interests are 3D computer vision, especially in 3D point cloud analysis such as 3D object detection and 3D affordance understanding. 
+I am Shengheng Deng, currently a master student in GorillaLab of South China University of Technology (SCUT). My research of interests are 3D computer vision, especially in 3D point cloud analysis such as 3D object detection and 3D affordance understanding. By the way, I like listening to music and I will update the musics that I recently repeat a lot in this intro!
 
 ## Maybe you will be interested with my projects?
 
