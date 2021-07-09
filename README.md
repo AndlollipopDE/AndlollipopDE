@@ -12,11 +12,11 @@ I am Shengheng Deng, currently a master student in GorillaLab of South China Uni
 
 ## Listening Now :headphones:
 
-![album](https://www.mymusic.net.tw/mms/album/L/504/4410504.jpg)
+![album](https://linkstorage.linkfire.com/medialinks/images/1f733650-b9d9-41a4-b687-0c348e5feb9b/artwork-440x440.jpg)
 
-**Leave The Door Open** 
+**Higher Power** 
 
-Bruno Mars, Anderson .Paak, Silk Sonic 
+Coldplay
 
 <!--
 **AndlollipopDE/AndlollipopDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
